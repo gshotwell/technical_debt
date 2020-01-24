@@ -1,0 +1,12 @@
+name: technical_deb_xan
+title: technical_deb_xan
+username: Gordon@socure.com
+account: Gordon@socure.com
+server: rstudio-connect.socure.be
+hostUrl: https://rstudio-connect.socure.be/__api__
+appId: 298
+bundleId: 879
+url: https://rstudio-connect.socure.be/content/298/
+when: 1579805543.65732
+asMultiple: FALSE
+asStatic: FALSE

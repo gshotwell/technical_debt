@@ -15,7 +15,16 @@ background-size: cover
 class: bottom, hide-logo
 
 .boxed[Technical Debt is a Social Problem<br><br>]
+---
+class: middle
 
+## Technical Debt is a Social Problem
+
+#### Gordon Shotwell
+
+#### `r fontawesome::fa("link", fill = "#1DA1F2")`   [techdebt.shotwell.ca](techdebt.shotwell.ca)
+
+#### `r fontawesome::fa("twitter", fill = "#1DA1F2")` [@gshotwell](https://twitter.com/gshotwell)
 ---
 class: middle, center
 
@@ -60,6 +69,8 @@ class: middle, center
 
 
 - Fragile dependencies
+
+- Doesn't scale
 
 ---
 class: center
@@ -224,7 +235,6 @@ class:  center, left
 
 - Refuse to read source code
 
---
 ---
 class: middle, center
 
@@ -284,7 +294,7 @@ class: bottom
 
 --
 
-- What we can ask of code
+- Thoughtful people doing their best
 
 
 --
@@ -308,6 +318,22 @@ Help us eliminate identify fraud:
 <br>
 **Get in touch**
 
-[blog.shotwell.ca](blog.shotwell.ca)
+#### `r fontawesome::fa("link", fill = "#1DA1F2")`   [blog.shotwell.ca](blog.shotwell.ca)
 
-[`r fontawesome::fa("twitter")` @gshotwell]()
+#### `r fontawesome::fa("twitter", fill = "#1DA1F2")` [@gshotwell](https://twitter.com/gshotwell)
+
+---
+# Credits
+
+Baby photo is copyrighted and should not be reproduced without consent
+
+Black and white photos from the [Library of Congress](https://www.loc.gov/photos/)
+
+All other phots from [Wikipedia](https://www.wikipedia.org/)
+
+Presentation writtn using [Xaringan](https://github.com/yihui/xaringan/)
+
+
+
+
+

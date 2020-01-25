@@ -75,7 +75,7 @@ class: middle, center
 
 ---
 class: center
-# Status quo bias
+# Status Quo Bias
 
 ### "I like my hair the way it is thanks"
 
@@ -102,8 +102,8 @@ knitr::include_graphics("imgs/sumi_spinach.jpg")
 ]
 
 .pull-right[
-# Parenting effect
-### "When you watch something grow up, you forgive the mess"
+# Parenting Effect
+### "When you watch something grow up, <br>you forgive the mess"
 ]
 
 
@@ -249,7 +249,7 @@ class:  center, left
 ---
 class: middle, center
 
-### If people do not welcome your input on code style, you are a user.
+### If people do not welcome your input on code style, <br>you are a user.
 
 ---
 # Useful questions:
@@ -320,7 +320,7 @@ class: hide-logo
 knitr::include_graphics("imgs/logo.png")
 ```
 
-Help us eliminate identify fraud:
+Help us eliminate identity fraud:
 
 [socure.com/about/careers](socure.com/about/careers)
 

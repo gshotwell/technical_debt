@@ -37,7 +37,7 @@ class: middle, center
 
 --
 
-- Bad Documentation 
+- Bad documentation 
 
 --
 
@@ -103,14 +103,11 @@ knitr::include_graphics("imgs/sumi_spinach.jpg")
 
 .pull-right[
 # Parenting Effect
+<br><br>
 ### "When you watch something grow up, <br>you forgive the mess"
 ]
 
 
----
-class: center
-background-image: url("imgs/sumi_spinach.jpg")
-background-size: contain
 ---
 
 # Build delightful products
@@ -169,8 +166,6 @@ background-size: cover
 --
 <br>
 - Small, contained project
-
---
 
 --
 
@@ -276,7 +271,6 @@ class: middle, center
 ```{r, echo = FALSE}
 knitr::include_graphics("imgs/poop_emoji.png")
 ```
---
 ---
 background-image: url("imgs/Red Cross.jpg")
 background-size: cover
@@ -334,13 +328,13 @@ Help us eliminate identity fraud:
 ---
 # Credits
 
-Baby photo is copyrighted and should not be reproduced without consent
+Baby photo is copyrighted and may not be reproduced without consent
 
 Black and white photos from the [Library of Congress](https://www.loc.gov/photos/)
 
-All other phots from [Wikipedia](https://www.wikipedia.org/)
+All other photos from [Wikipedia](https://www.wikipedia.org/)
 
-Presentation writtn using [Xaringan](https://github.com/yihui/xaringan/)
+Presentation written using [Xaringan](https://github.com/yihui/xaringan/)
 
 
 

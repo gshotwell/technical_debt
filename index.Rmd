@@ -29,7 +29,7 @@ class: bottom, hide-logo
 ---
 class: middle, center
 
-# Most technical debt is a failure to *communicate* or to *consider*
+# Most technical debt is a failure <br>to *communicate* or to *consider*
 
 ---
 

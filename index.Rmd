@@ -5,6 +5,8 @@ output:
   xaringan::moon_reader:
     css: ["default", "socure.css", "socure-fonts.css"]
     seal: false
+    nature: 
+      ratio: "16:9"
     includes:
       after_body: insert-logo.html
 ---
@@ -16,15 +18,14 @@ class: bottom, hide-logo
 
 .boxed[Technical Debt is a Social Problem<br><br>]
 ---
-class: middle
 
-## Technical Debt is a Social Problem
+# Technical Debt is a Social Problem
 
-#### Gordon Shotwell
+## Gordon Shotwell
 
-#### `r fontawesome::fa("link", fill = "#1DA1F2")`   [techdebt.shotwell.ca](techdebt.shotwell.ca)
+## `r fontawesome::fa("link", fill = "#1DA1F2")`   [techdebt.shotwell.ca](techdebt.shotwell.ca)
 
-#### `r fontawesome::fa("twitter", fill = "#1DA1F2")` [@gshotwell](https://twitter.com/gshotwell)
+## `r fontawesome::fa("twitter", fill = "#1DA1F2")` [@gshotwell](https://twitter.com/gshotwell)
 ---
 class: middle, center
 
@@ -32,7 +33,7 @@ class: middle, center
 
 ---
 
-## Communication
+# Communication
 
 --
 
@@ -50,7 +51,7 @@ class: middle, center
 
 ---
 
-## Consideration
+# Consideration
 --
 
 - Code isn't robust
@@ -92,14 +93,24 @@ class: center
 knitr::include_graphics("imgs/poang.jpg")
 ```
 ---
-class:  center
-# Parenting Effect
-<br><br>
-### "When you watch something grow up you forgive the mess"
+class:  middle
+
+.pull-left[
+```{r, echo = FALSE, out.width = "500px"}
+knitr::include_graphics("imgs/sumi_spinach.jpg")
+```
+]
+
+.pull-right[
+# Parenting effect
+### "When you watch something grow up, you forgive the mess"
+]
+
+
 ---
 class: center
 background-image: url("imgs/sumi_spinach.jpg")
-background-size: cover
+background-size: contain
 ---
 
 # Build delightful products
@@ -183,15 +194,15 @@ class: bottom
 class:  center, left
 --
 
-## <br>Users get coddled.
+# <br><br>Users get coddled.
 
 --
 
-## Maintainers get opinions.
+# <br>Maintainers get opinions.
 
 ---
 
-## Being a good maintainer
+# Being a good maintainer
 
 --
 
@@ -213,7 +224,7 @@ class:  center, left
 - Never ask the user to maintain
 ---
 
-## Being a good user
+# Being a good user
 
 --
 
@@ -241,8 +252,7 @@ class: middle, center
 ### If people do not welcome your input on code style, you are a user.
 
 ---
-## Useful questions:
-
+# Useful questions:
 --
 
 "Can we use tabs instead of spaces?"
@@ -262,10 +272,9 @@ class: middle, center
 
 ---
 # Can you add this function?
-<br>
 --
 ```{r, echo = FALSE}
-knitr::include_graphics("imgs/poop_emoji.png", dpi = 1)
+knitr::include_graphics("imgs/poop_emoji.png")
 ```
 --
 ---

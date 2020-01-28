@@ -41,11 +41,11 @@ a, a > code {
 }
 .pull-left {
   float: left;
-  width: 47%;
+  width: 45%;
 }
 .pull-right {
   float: right;
-  width: 47%;
+  width: 50%;
 }
 .pull-right ~ * {
   clear: both;
@@ -77,18 +77,11 @@ th, td { padding: 5px; }
   }
 }
 
-ul {
-  line-height: 150%;
-}
-
-h2 {
-  line-height: 300%;
-}
 
 .boxed {
   background-color: rgba(255,255,255, 0.75);
   color: #224;
-  font-size: 150%;
+  font-size: 250%;
   font-weight: bold;
   border-width: 0;
    box-shadow: 10em 0 0 rgba(255,255,255, 0.75), -4em 0 0 rgba(255,255,255, 0.75);
@@ -100,9 +93,6 @@ h2 {
   padding-left: 50px;
 }
 
-.hide-logo {
-
-}
 
 .remark-slide-number {
   font-size: 10pt;

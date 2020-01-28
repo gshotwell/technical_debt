@@ -12,6 +12,13 @@ body {
 
 ul {
   font-family: 'Open Sans';
+  font-size: 150%;
+  line-height: 150%;
+}
+
+.large {
+  font-size: 180%;
+  line-height: 180%;
 }
 
 h1, h2, h3 {
@@ -26,6 +33,7 @@ h1 {
 
 h2 {
   font-size: 115%
+  line-height: 300%;
 }
 
 
